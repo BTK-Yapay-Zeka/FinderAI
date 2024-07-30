@@ -1,5 +1,5 @@
 # FinderAI
-This project aims to finds missing people and saves every frame of match in a file while messaging project's owner telegram by using trained AI model.
+This project aims to find missing people and saves every frame of a match in a file while messaging the project's owner on Telegram by using trained AI model.
 
 
 
